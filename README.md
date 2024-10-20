@@ -36,7 +36,8 @@ For those who are curious, you can view my profile and progress here:
 Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy-io) for educational purposes for those who are also doing the same thing.
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
-- Please link back (if you can fork, the better) to this repo. 
+- Please link back (if you can fork, the better) to this repo.
+- And please don't forget to 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi**?).
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-24292e?logo=pencil&logoColor=white&labelColor=00416a)
 I'd love to hear your thoughts. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/code_challenges/issues/new/choose) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
