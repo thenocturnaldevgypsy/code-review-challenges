@@ -12,11 +12,11 @@
    </a>
 </p>
 
-## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-24292e?logo=repo&logoColor=white&labelColor=00416a)
+## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-2471AE?logo=repo&logoColor=white&labelColor=2471AE)
 
 In order to provide a steady stream of coding challenges that can help sharpen my skills in programming, I signed up to some coding challenges portals and created this repo to save my progress/activities.
 
-## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
 At the moment, I'm taking the following programming challenges tracks:
 | Portal | PL | Directory in this Repo | Track |
 | ------------- | ------------- | ------------- | ------------- |
@@ -32,12 +32,12 @@ For those who are curious, you can view my profile and progress here:
 | ------------- | ------------- |
 | Exercism.org | https://exercism.org/profiles/thenocturnaldevgypsy-io |
 
-## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-24292e?logo=file-badge&logoColor=white&labelColor=00416a)
+## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-2471AE?logo=file-badge&logoColor=white&labelColor=2471AE)
 Distributed under the MIT License by [Abegail Torrendon / TheNocturnalDevGypsy](https://github.com/thenocturnaldevgypsy-io) for educational purposes for those who are also doing the same thing.
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
 - Please link back (if you can fork, the better) to this repo.
 - And please don't forget to 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi**?).
 
-## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-24292e?logo=pencil&logoColor=white&labelColor=00416a)
+## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
 I'd love to hear your thoughts. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/code_challenges/issues/new/choose) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
