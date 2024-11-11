@@ -21,6 +21,7 @@ In order to provide a steady stream of coding challenges that can help sharpen m
 At the moment, I'm taking the following programming challenges tracks:
 | Portal | PL | Directory in this Repo | Track |
 | ------------- | ------------- | ------------- | ------------- |
+| codecamy.com | Code Foundations | `codecamy.com - Code Foundations` | 0 |
 | Exercism.org | PHP | `Exercism.org - PHP` | 11 of 114 |
 | Exercism.org | Python | `Exercism.org - Python` | 2 of 140 |
 
@@ -31,6 +32,7 @@ For those who are curious, you can view my profile and progress here:
 
 | Portal | Profile Link |
 | ------------- | ------------- |
+| codecademy.com | https://www.codecademy.com/profiles/thenocturnaldevgypsy |
 | Exercism.org | https://exercism.org/profiles/thenocturnaldevgypsy-io |
 
 ## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-2471AE?logo=file-badge&logoColor=white&labelColor=2471AE)
