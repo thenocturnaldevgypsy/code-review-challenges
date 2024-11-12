@@ -21,7 +21,7 @@ In order to provide a steady stream of coding challenges that can help sharpen m
 At the moment, I'm taking the following programming challenges tracks:
 | Portal | PL | Directory in this Repo | Track |
 | ------------- | ------------- | ------------- | ------------- |
-| codecamy.com | Code Foundations | `codecamy.com - Code Foundations` | Courses Done: 4<br>Lessons Only: 1 |
+| codecademy.com | Code Foundations | `codecademy.com - Code Foundations` | Courses Done: 4<br>Lessons Only: 1 |
 | Exercism.org | PHP | `Exercism.org - PHP` | 11 of 114 |
 | Exercism.org | Python | `Exercism.org - Python` | 2 of 140 |
 
