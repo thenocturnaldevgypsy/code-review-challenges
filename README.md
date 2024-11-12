@@ -3,7 +3,7 @@
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING/PLAYGROUND/EXPLORING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING/PLAYGROUND/EXPLORING">
-   <img src="https://img.shields.io/badge/Lang-PHP%20|%20Python-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-PHP|Python">
+   <img src="https://img.shields.io/badge/Lang-PHP%20|%20Python%20|%20Ruby%20|%20Go-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-PHP|Python|Ruby|Go">
    <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
    <img src="https://img.shields.io/badge/Contribute-CLOSED-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-CLOSED">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
@@ -21,6 +21,8 @@ In order to provide a steady stream of coding challenges that can help sharpen m
 At the moment, I'm taking the following programming challenges tracks:
 | Portal | PL | Directory in this Repo | Track |
 | ------------- | ------------- | ------------- | ------------- |
+| Exercism.org | Go | `Exercism.org - Go` | 1 of 141 |
+| Exercism.org | Ruby | `Exercism.org - Ruby` | 1 of 120 |
 | codecademy.com | Code Foundations | `codecademy.com - Code Foundations` | Courses Done: 4<br>Lessons Only: 1 |
 | Exercism.org | PHP | `Exercism.org - PHP` | 11 of 114 |
 | Exercism.org | Python | `Exercism.org - Python` | 2 of 140 |
