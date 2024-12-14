@@ -37,6 +37,9 @@ For those who are curious, you can view my profile and progress here:
 | codecademy.com | https://www.codecademy.com/profiles/thenocturnaldevgypsy |
 | Exercism.org | https://exercism.org/profiles/thenocturnaldevgypsy-io |
 
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
+See the [open issues](https://github.com/thenocturnaldevgypsy-io/code_challenges/issues) and [backlog](https://github.com/thenocturnaldevgypsy-io/code_challenges/milestones) for the list of challenges tracks and repo features (and known issues).
+
 ## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-2471AE?logo=file-badge&logoColor=white&labelColor=2471AE)
 Distributed under the MIT License by [Abegail Torrendon / TheNocturnalDevGypsy](https://github.com/thenocturnaldevgypsy-io) for educational purposes for those who are also doing the same thing.
 - You can freely modify and reuse.
@@ -45,4 +48,4 @@ Distributed under the MIT License by [Abegail Torrendon / TheNocturnalDevGypsy](
 - And please don't forget to 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi**?).
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
-I'd love to hear your thoughts. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/code_challenges/issues/new/choose) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
+I'd love to hear your thoughts. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/code_challenges/issues/new/choose) on this repo or you can also contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
