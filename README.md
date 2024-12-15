@@ -3,14 +3,14 @@
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-EDUCATION/LEARNING/PLAYGROUND/EXPLORING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-EDUCATION/LEARNING/PLAYGROUND/EXPLORING">
-   <img src="https://img.shields.io/badge/Lang-PHP%20|%20Python-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-PHP|Python">
+   <img src="https://img.shields.io/badge/Lang-PHP%20|%20Python%20|%20Ruby%20|%20Go-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-PHP|Python|Ruby|Go">
    <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
    <img src="https://img.shields.io/badge/Contribute-CLOSED-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-CLOSED">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
    <img src="https://img.shields.io/badge/Last%20Update-13.11.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 13.11.2024">
    <a href="https://ko-fi.com/thenocturnaldevgypsy">
       <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
-   </a>
+   </a> 
 </p>
 
 ## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-2471AE?logo=repo&logoColor=white&labelColor=2471AE)
@@ -21,9 +21,11 @@ In order to provide a steady stream of coding challenges that can help sharpen m
 At the moment, I'm taking the following programming challenges tracks:
 | Portal | PL | Directory in this Repo | Track |
 | ------------- | ------------- | ------------- | ------------- |
+| Exercism.org | PHP | `Exercism.org - PHP` | 12 of 114 |
+| Exercism.org | Python | `Exercism.org - Python` | 3 of 140 |
+| Exercism.org | Go | `Exercism.org - Go` | 1 of 141 |
+| Exercism.org | Ruby | `Exercism.org - Ruby` | 1 of 120 |
 | codecademy.com | Code Foundations | `codecademy.com - Code Foundations` | Courses Done: 4<br>Lessons Only: 1 |
-| Exercism.org | PHP | `Exercism.org - PHP` | 11 of 114 |
-| Exercism.org | Python | `Exercism.org - Python` | 2 of 140 |
 
 > [!NOTE]
 > When I'm about to start with a challenge, I will always create an issue ticket with the programming challenge link info to keep track of my progress here at GitHub.
@@ -32,8 +34,13 @@ For those who are curious, you can view my profile and progress here:
 
 | Portal | Profile Link |
 | ------------- | ------------- |
-| codecademy.com | https://www.codecademy.com/profiles/thenocturnaldevgypsy |
-| Exercism.org | https://exercism.org/profiles/thenocturnaldevgypsy-io |
+| Exercism | https://exercism.org/profiles/thenocturnaldevgypsy-io |
+| codecademy | https://www.codecademy.com/profiles/thenocturnaldevgypsy |
+<!-- | Freecodecamp | https://www.freecodecamp.org/thenocturnaldevgypsy |
+| Frontend Mentor | https://www.frontendmentor.io/profile/thenocturnaldevgypsy-io | -->
+
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
+See the [open issues](https://github.com/thenocturnaldevgypsy-io/code_challenges/issues) and [backlog](https://github.com/thenocturnaldevgypsy-io/code_challenges/milestones) for the list of challenges tracks and repo features (and known issues).
 
 ## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-2471AE?logo=file-badge&logoColor=white&labelColor=2471AE)
 Distributed under the MIT License by [Abegail Torrendon / TheNocturnalDevGypsy](https://github.com/thenocturnaldevgypsy-io) for educational purposes for those who are also doing the same thing.
@@ -43,4 +50,4 @@ Distributed under the MIT License by [Abegail Torrendon / TheNocturnalDevGypsy](
 - And please don't forget to 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi**?).
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
-I'd love to hear your thoughts. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/code_challenges/issues/new/choose) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
+I'd love to hear your thoughts. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/code_challenges/issues/new/choose) on this repo or you can also contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
