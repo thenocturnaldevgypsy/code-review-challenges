@@ -47,7 +47,7 @@ Distributed under the MIT License by [Abegail Torrendon / TheNocturnalDevGypsy](
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
 - Please link back (if you can fork, the better) to this repo.
-- And please don't forget to 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi**?).
+- And please don't forget to 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi** or sponsoring me here at GitHub? :smiling_face_with_tear:).
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
 I'd love to hear your thoughts. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/code-review-challenges/issues/new/choose) in this repo or you can also contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
